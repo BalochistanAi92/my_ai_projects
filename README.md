@@ -36,13 +36,19 @@ This project demonstrates **modular software design**:
 *   `ui/app.py` – Unified graphical interface (Flask/Tkinter)
 ---
 
-### 5: CPEC Navigator App**
+---
+
+### 5.: CPEC Navigator App**
 This is your flagship project for the scholarship. Make this **`README.md`** exceptionally detailed. Focus on the scholarship committee as your primary audience.
 
 ```markdown
 # 🗺️ CPEC Navigator - AI-Powered Route & Economic Analysis Platform
 
 **A comprehensive navigation and analytics tool for the China-Pakistan Economic Corridor (CPEC), developed as a key project for AI scholarship applications.**
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python)
+![Framework](https://img.shields.io/badge/Framework-Flask-000000?logo=flask)
+![ML](https://img.shields.io/badge/ML-scikit--learn-F7931E?logo=scikit-learn)
 
 ## 📖 Abstract
 The CPEC Navigator is an **AI-integrated web application** designed to visualize, analyze, and optimize routes along the China-Pakistan Economic Corridor. It applies **machine learning algorithms** for predictive analysis and optimal pathfinding, serving as a practical tool for understanding infrastructure impact and regional connectivity. This project demonstrates the applicant's ability to apply **artificial intelligence to real-world geopolitical and economic challenges**.
@@ -61,3 +67,4 @@ The CPEC Navigator is an **AI-integrated web application** designed to visualize
 | **Backend API** | `Flask` / `FastAPI` | Serve data and handle analysis requests. |
 
 ## 🏗️ System Architecture
+
